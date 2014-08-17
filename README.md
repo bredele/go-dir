@@ -1,5 +1,5 @@
 
-# go-snap
+# go-dir
 
  Tiny command-line utility to recursively create directories.
 
